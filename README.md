@@ -1,5 +1,5 @@
 # Lessons-Learned
-## Things I Have Learned at Boc.io
+## Things I Have Learned at Bloc.io
 1.  The command line
 2.  Devloper tools such as Atom, Github, JS Bin, etc.
 2.  HTML 
